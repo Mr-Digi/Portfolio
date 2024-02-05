@@ -64,12 +64,14 @@ a:hover {
 }
 
 #projectURL {
-    width: 100px;
     height: 25px;
-    border: 0px;
-    display: block;
-    margin: auto;
+    width: 150px;
+    background-color: #BCD2EE;
+    padding-top: 7px;
+    margin: 0 auto;
     margin-bottom: 20px;
+    display: block;
+    background-color: white;
 }
 
 @media only screen and (max-width: 700px) {
